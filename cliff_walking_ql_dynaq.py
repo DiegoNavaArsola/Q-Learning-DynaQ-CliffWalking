@@ -3,6 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
+"""
+Author: Diego A. Nava A.
+Institución: Instituto de Investigaciones en Matemáticas Aplicadas y Sitemas (IIMAS), Universidad Nacional Autónoma de México (UNAM) 
+"""
 
 class QLearningAgent:
     """
